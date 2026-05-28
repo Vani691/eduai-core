@@ -1,0 +1,8 @@
+{
+  "name": "AI Course Recommendation & Online Learning Platform",
+  "description": "A production-grade AI-powered online learning platform featuring content-based and collaborative hybrid filtering, resume skill gap analyzer, interactive learning roadmap, gamified milestones, and dynamic dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
