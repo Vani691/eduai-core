@@ -110,27 +110,26 @@ $$Overlap(U_{caller}, U_{peer}) = \frac{|U_{caller} \cap U_{peer}|}{|U_{caller} 
    ```bash
    git clone [https://github.com/Vani691/eduai-core.git](https://github.com/Vani691/eduai-core.git)
    cd eduai-core
-  ```   
+
 2. **Install dependencies:**
 
    ```bash
    npm install
-  ```   
+  
 3. **Configure Environment Secrets:** Add your Google Gemini credentials in a .env file:
    ```
    GEMINI_API_KEY="YOUR_KEY_HERE"
-  ```   
+  
 4. **Launch Development Pipeline:**
 
    ```bash
    npm run dev
    EduAI runs on port 3000 behind standard edge container gateways automatically.
-  ```
+  
 5. **Build & Bundle Standalone Distribution:**
 
    ```bash
    npm run build
-  ```
 
 
 **Architected and Engineered by [Shravani Mane](https://github.com/Vani691)** *Software Engineer specializing in Full-Stack Development and Applied AI.*
